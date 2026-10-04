@@ -1,0 +1,15 @@
+artist,title,album,year,genre,trackPos,maxTrackPos,partOfSet,file_name,full_path
+Iron Maiden,Aces High,Powerslave,1984,Heavy Metal,1,8,,01 Aces High.mp3,/music/Iron Maiden/Powerslave/01 Aces High.mp3
+Iron Maiden,2 Minutes to Midnight,PowerSlave,1984,Heavy Metal,2,8,,02 2 Minutes to Midnight.mp3,/music/Iron Maiden/Powerslave/02 2 Minutes to Midnight.mp3
+Iron Maiden,Powerslave,Live After Death: The World Slavery Tour (Disc 1),1985,Heavy Metal,5,13,Disc 1,05 Powerslave.mp3,"/music/Iron Maiden/Live After Death, Disc 1/05 Powerslave.mp3"
+Dornenreich,Aufbruch,In Luft Geritzt,2008,Black Metal,1,9,,01 Aufbruch.mp3,/music/Dornenreich/In Luft Geritzt/01 Aufbruch.mp3
+Dornenreich,Aufbruch,In Luft Geritzt,2008,Black Metal,1,9,,01 Aufbruch (2).mp3,/music/Dornenreich/In Luft Geritzt/01 Aufbruch (2).mp3
+Metallica,Battery,Master of Puppets,1986,Thrash Metal,1,8,,01 Battery.mp3,/music/Metallica/Master of Puppets/01 Battery.mp3
+Metallica,Master Of Puppets,master of puppets,1986,Thrash Metal,2,8,,02 Master of Puppets.mp3,/music/Metallica/Master of Puppets/02 Master of Puppets.mp3
+Slayer,Angel of Death,Reign in Blood,1986,Thrash Metal,1,10,,01 Angel of Death.mp3,/music/Slayer/Reign in Blood/01 Angel of Death.mp3
+Slayer,"Raining Blood ""Live""",Reign in Blood,1986,Thrash Metal,10,10,,10 Raining Blood (Live).mp3,/music/Slayer/Reign in Blood/10 Raining Blood (Live).mp3
+Black Sabbath,Paranoid,Paranoid,1970,Heavy Metal,1,8,,01 Paranoid.mp3,/music/Black Sabbath/Paranoid/01 Paranoid.mp3
+Judas Priest,Painkiller,Painkiller,1990,Heavy Metal,1,10,,01 Painkiller.mp3,/music/Judas Priest/Painkiller/01 Painkiller.mp3
+Megadeth,Holy Wars... The Punishment Due,Rust in Peace,1990,Thrash Metal,1,9,,01 Holy Wars.mp3,/music/Megadeth/Rust in Peace/01 Holy Wars.mp3
+Testament,Over the Wall,The Legacy,1987,Thrash Metal,1,9,,01 Over the Wall.mp3,/music/Testament/The Legacy/01 Over the Wall.mp3
+ Iron Maiden ,Hallowed Be Thy Name ,The Number of the Beast ,1982,Heavy Metal,1,8,,01 Hallowed Be Thy Name.mp3,/music/Iron Maiden/The Number of the Beast/01 Hallowed Be Thy Name.mp3
